@@ -15,6 +15,7 @@
 		5AA0F7961D6C470F00CDBE67 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5AA0F7941D6C470F00CDBE67 /* LaunchScreen.storyboard */; };
 		5AA0F7A11D6C470F00CDBE67 /* PlistTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AA0F7A01D6C470F00CDBE67 /* PlistTests.m */; };
 		5AA0F7AC1D6C470F00CDBE67 /* PlistUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AA0F7AB1D6C470F00CDBE67 /* PlistUITests.m */; };
+		5AA0F7BA1D6C536400CDBE67 /* StudentInformation.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5AA0F7B91D6C536400CDBE67 /* StudentInformation.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		5AA0F7A71D6C470F00CDBE67 /* PlistUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PlistUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AA0F7AB1D6C470F00CDBE67 /* PlistUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PlistUITests.m; sourceTree = "<group>"; };
 		5AA0F7AD1D6C470F00CDBE67 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5AA0F7B91D6C536400CDBE67 /* StudentInformation.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = StudentInformation.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				5AA0F78A1D6C470F00CDBE67 /* AppDelegate.m */,
 				5AA0F78C1D6C470F00CDBE67 /* ViewController.h */,
 				5AA0F78D1D6C470F00CDBE67 /* ViewController.m */,
+				5AA0F7B91D6C536400CDBE67 /* StudentInformation.plist */,
 				5AA0F78F1D6C470F00CDBE67 /* Main.storyboard */,
 				5AA0F7921D6C470F00CDBE67 /* Assets.xcassets */,
 				5AA0F7941D6C470F00CDBE67 /* LaunchScreen.storyboard */,
@@ -246,6 +249,7 @@
 				5AA0F7961D6C470F00CDBE67 /* LaunchScreen.storyboard in Resources */,
 				5AA0F7931D6C470F00CDBE67 /* Assets.xcassets in Resources */,
 				5AA0F7911D6C470F00CDBE67 /* Main.storyboard in Resources */,
+				5AA0F7BA1D6C536400CDBE67 /* StudentInformation.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
